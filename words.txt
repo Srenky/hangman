@@ -1,0 +1,12 @@
+apple
+window
+microsoft
+python
+monkey
+eggplant
+apricot
+banana
+cat
+mouse
+keyboard
+harddisk
